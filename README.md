@@ -78,7 +78,7 @@
    
 ## Deployment Methods
 ---
-1.  ***Get `SESSION ID` by [`SCANING QR`](https://gifted-md-qr.onrender.com/) Or [`PARING CODE`](https://replit.com/@mauricegift045/GiftedTechPairingCode#index.js). And then `Go-to Whatapp>Three dots>Linked Devices`***
+1.  ***Get `SESSION ID` by [`SCANING QR`](https://qr-scan.giftectechnexus.co.ke/) Or [`PARING CODE`](https://replit.com/@mauricegift045/GiftedTechPairingCode#index.js). And then `Go-to Whatapp>Three dots>Linked Devices`***
 2.  ***Get Mongodb_URI from [`Mongodb site`](https://www.mongodb.com/) | Watch Tutorial [`To Get Mongodb_URI`](https://youtu.be/6rnftFl0fAI). `Optional`***
 3.  ***Click [`FORK`](https://github.com/Giftedmaurice/gifted-bot-md/fork) and `Star ⭐ Repository` for Courage.***
 4.  ***Deploy tutorial [`Youtube Video`](https://youtu.be/6rnftFl0fAI).***
