@@ -92,8 +92,8 @@
 ---
 
 
-- Star ⭐ repo if you like this bot.
-- If any problem, then [`+254762016957`](https://wa.me/254762016957)
+- Star ⭐ repo and fork it if you like this bot.
+- If any problem, then [`+254728782591`](https://wa.me/254728782591)
 
 
 ### Thanks To
