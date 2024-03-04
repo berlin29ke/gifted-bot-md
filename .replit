@@ -1,4 +1,4 @@
-run = "npm start || yarn start || node lib/client.js"
+run = "npm start || yarn start || node lib/smd.js"
 # stop =  "npm stop || yarn stop"
 entrypoint = "README.md"
 hidden = [".config"]

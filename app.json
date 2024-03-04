@@ -1,10 +1,10 @@
 {
-  "name": "gifted-bot-md",
+  "name": "gifted-bot-md@1.2.5",
   "description": "Hi there, I am Gifted Bot Whatsapp Chuddy Buddy built in NodeJs to make experience better.\n\t Incase of Any Problem Whatsapp me on: +254728782591",
   "logo": "https://telegra.ph/file/54efddccf41281ad7ec51.jpg",
   "keywords": ["whatsappbot", "suhailMd", "suhail Md bot", "Suhail-Md", "SuhailMdWhatsaooBot", "SuhailWaBot","SuhailMD","Suhail Md Whatsapp Bot","multi device"],
   "success_url": "/suhail/",
-  "app_url": "/suhail/",
+  "app_url": "/qr/",
   
   "env": {
     "OWNER_NAME": {
@@ -61,7 +61,7 @@
     }, 
     "HEROKU_API_KEY": {
       "description": "Put Your Heroku Api Key Here",
-      "value": "1a63355e-a482-4e92-b6f4-f47f2c160e7d",
+      "value": "6e3c88bf-1cdd-4016-8641-96ff2aca4c73",
       "required" :true 
     },   
     "HEROKU_APP_NAME": {
